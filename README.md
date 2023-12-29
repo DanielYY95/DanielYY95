@@ -64,8 +64,6 @@
 <div>
 <strong> 2. 기술 </strong><br>
            
-- JPA, Junit, 디버깅, 서버 구축(서버 배포, Https, 리다이렉션 등)
-           
 </div>
 
 <div>

@@ -16,6 +16,7 @@
            <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" /></a>&nbsp;
            <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" >&nbsp;
               <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=jpa&logoColor=white" >&nbsp;
+                      <img src="https://img.shields.io/badge/QueryDSL-6DB33F?style=for-the-badge&logo=querydsl&logoColor=white" >&nbsp;
               <img src="https://img.shields.io/badge/Mybatis-6DB33F?style=for-the-badge&logo=mybatis&logoColor=white" >&nbsp;
                <img src="https://img.shields.io/badge/JSP-6DB33F?style=for-the-badge&logo=jsp&logoColor=white" >&nbsp;
               </div>
@@ -28,6 +29,8 @@
 <h4>CI/CD</h4>
 <div>
                <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
+                <img src="https://img.shields.io/badge/ElasticBeanStalk-FF9900?style=for-the-badge&logo=eb&logoColor=white">
+                 <img src="https://img.shields.io/badge/GithubAction-FF9900?style=for-the-badge&logo=eb&logoColor=white">
           
 </div>
 

@@ -46,6 +46,7 @@
                        <img src="https://img.shields.io/badge/Route53-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white">   
              <img src="https://img.shields.io/badge/CloudFront-005571?style=for-the-badge&logo=amazoncloudfront&logoColor=white">
              <img src="https://img.shields.io/badge/ELB-005571?style=for-the-badge&logo=elb&logoColor=white">
+    <img src="https://img.shields.io/badge/ECS-005571?style=for-the-badge&logo=elb&logoColor=white">
           
 </div>
 

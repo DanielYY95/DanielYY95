@@ -35,6 +35,7 @@
                <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
                 <img src="https://img.shields.io/badge/ElasticBeanStalk-FF9900?style=for-the-badge&logo=eb&logoColor=white">
                  <img src="https://img.shields.io/badge/GithubAction-FF9900?style=for-the-badge&logo=eb&logoColor=white">
+            <img src="https://img.shields.io/badge/Docker-FF9900?style=for-the-badge&logo=eb&logoColor=white">
           
 </div>
 
